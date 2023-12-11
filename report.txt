@@ -1,0 +1,8 @@
+Sales Report for Product: Product A
+Total Revenue: 220.0
+Popular Product: Product A
+
+Sales Report for Product: Product A
+Total Revenue: 220.0
+Popular Product: Product A
+
